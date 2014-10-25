@@ -3,7 +3,7 @@
 
 -- License for code and textures: CC0 1.0 <https://creativecommons.org/publicdomain/zero/1.0/>
 
-minetest.register_node("default:torch", {
+minetest.register_node(":default:torch", {
 	description = "Torch",
 	drawtype = "nodebox",
 	tiles = {
